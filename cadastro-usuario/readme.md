@@ -8,7 +8,7 @@ Este `README.md` descreve como testar os endpoints da API de gerenciamento de us
 
 Este projeto foi desenvolvido com base nos conceitos apresentados na videoaula:
 
-<img src="imagem-aula.png"/>
+<img src="Imagem-aula.png"/>
 
 **Referência:** [https://www.youtube.com/watch?v=yW7RrWfUeHE](https://www.youtube.com/watch?v=yW7RrWfUeHE)
 

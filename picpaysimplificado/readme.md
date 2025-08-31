@@ -8,7 +8,7 @@ Este projeto é uma API de backend que simula um sistema de transações finance
 
 Este projeto foi desenvolvido com base nos conceitos apresentados na videoaula:
 
-<img src="img.png"/>
+![Imagem da Videoaula](Imagem-aula.png)
 
 **Referência:** [https://www.youtube.com/watch?v=QXunBiLq2SM](https://www.youtube.com/watch?v=QXunBiLq2SM)
 

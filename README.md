@@ -6,7 +6,7 @@ Este repositório contém uma coleção de projetos desenvolvidos, estudados e a
 
 ![Imagem da Videoaula](cadastro-usuario/Imagem-aula.png)
 
-Este projeto é uma API REST para gerenciamento de usuários, desenvolvida com base em uma videoaula do YouTube. Ele implementa operações CRUD (Criar, Ler, Atualizar e Deletar) para a entidade `Usuario` (nome, e-mail, idade).
+Este [repositório](https://github.com/mulucas/projetos-de-estudo-youtube/tree/main/cadastro-usuario) é uma API REST para gerenciamento de usuários, desenvolvida com base em uma videoaula do YouTube. Ele implementa operações CRUD (Criar, Ler, Atualizar e Deletar) para a entidade `Usuario` (nome, e-mail, idade).
 
 * **Videoaula de Referência:** [https://www.youtube.com/watch?v=yW7RrWfUeHE](https://www.youtube.com/watch?v=yW7RrWfUeHE)
 * **Endpoints Principais:**
@@ -22,7 +22,7 @@ Este projeto é uma API REST para gerenciamento de usuários, desenvolvida com b
 
 ![Imagem da Videoaula](posto-combustivel/Imagem-aula.png)
 
-Esta API foi desenvolvida para gerenciar um sistema de posto de combustível. Ela lida com três entidades principais: `TipoCombustivel`, `BombaCombustivel` e `Abastecimento`.
+Este [repositório](https://github.com/mulucas/projetos-de-estudo-youtube/tree/main/posto-combustivel) é uma API e foi desenvolvida para gerenciar um sistema de posto de combustível. Ela lida com três entidades principais: `TipoCombustivel`, `BombaCombustivel` e `Abastecimento`.
 
 * **Videoaula de Referência:** [https://www.youtube.com/watch?v=wu29IO2vmfI](https://www.youtube.com/watch?v=wu29IO2vmfI)
 * **Endpoints Principais:**
@@ -46,10 +46,21 @@ Esta API foi desenvolvida para gerenciar um sistema de posto de combustível. El
 
 ![Imagem da Videoaula](picpaysimplificado/Imagem-aula.png)
 
-Este projeto é uma API de backend em Java com Spring Boot que simula um sistema de transações financeiras. Ele permite o cadastro de usuários e a transferência de valores entre eles, aplicando regras de negócio como a validação de saldo e o tipo de usuário para cada transação.
+Este [repositório](https://github.com/mulucas/projetos-de-estudo-youtube/tree/main/picpaysimplificado) é uma API de backend em Java com Spring Boot que simula um sistema de transações financeiras. Ele permite o cadastro de usuários e a transferência de valores entre eles, aplicando regras de negócio como a validação de saldo e o tipo de usuário para cada transação.
 
 * **Videoaula de Referência:** [https://www.youtube.com/watch?v=QXunBiLq2SM](https://www.youtube.com/watch?v=QXunBiLq2SM)
 * **Endpoints Principais:**
-* `POST /users`: Cria um novo usuário.
-* `GET /users`: Lista todos os usuários cadastrados.
-* `POST /transactions`: Realiza uma transação entre usuários.
+    * `POST /users`: Cria um novo usuário.
+    * `GET /users`: Lista todos os usuários cadastrados.
+    * `POST /transactions`: Realiza uma transação entre usuários.
+
+### **4. Desafio Uber Vaga Backend**
+
+![Imagem da Video aula](email-service/Imagem-aula.png)
+
+Este [repositório](https://github.com/mulucas/projetos-de-estudo-youtube/tree/main/email-service) detalha a resolução de um desafio técnico da Uber para vaga de backend, utilizando Java com o framework Spring Boot e seguindo os princípios da Arquitetura Limpa (Clean Architecture).
+
+* **Videoaula de Referência:** [https://www.youtube.com/watch?v=eFgeO9M9lLw&list=PLNCSWIsR6ADKaT1cO6XUJkRy0_v9p-h0Z](https://www.youtube.com/watch?v=eFgeO9M9lLw&list=PLNCSWIsR6ADKaT1cO6XUJkRy0_v9p-h0Z)
+
+* **Endpoints Principais:**
+    * `POST /api/email`: Envia um e-mail.
